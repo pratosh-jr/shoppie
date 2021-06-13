@@ -37,7 +37,8 @@ header nav a{
 .product-item a {
     display: block;
     text-decoration: none;
-    color: black;
+    color:teal ;
+    font-family: fantasy;
      
 }
 .product-item {
@@ -45,6 +46,7 @@ header nav a{
     font-weight: 900;
     float:left;
     margin: 5%;
+    color:chartreuse
 }
 .product-item button {
     background-color: black;
