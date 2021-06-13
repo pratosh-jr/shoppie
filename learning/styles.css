@@ -1,4 +1,4 @@
-body {
+ body {
     background-color: black;
 }
 header {
@@ -27,18 +27,21 @@ header nav a{
     padding-left:8%;
     margin-left: 10%;
     margin-right: 10%;
-    height:2000px ;
+    height:2500px ;
 }
+
 .product-item img{
     
     width: 200px;
+    
      
 } 
 .product-item a {
     display: block;
     text-decoration: none;
     color:teal ;
-    font-family: fantasy;
+    font-family: fantasy  ;
+   
      
 }
 .product-item {
@@ -46,7 +49,7 @@ header nav a{
     font-weight: 900;
     float:left;
     margin: 5%;
-    color:chartreuse
+    color: chartreuse ;
 }
 .product-item button {
     background-color: black;
@@ -59,4 +62,8 @@ header nav a{
     text-align: center;
     
 
+}
+.main img {
+    border-width:thick; 
+    border-color: teal;
 }
