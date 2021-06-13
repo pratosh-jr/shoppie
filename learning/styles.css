@@ -27,7 +27,7 @@ header nav a{
     padding-left:8%;
     margin-left: 10%;
     margin-right: 10%;
-    height: 1600px;
+    height: fit-content ;
 }
 .product-item img{
     
